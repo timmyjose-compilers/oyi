@@ -1,2 +1,3 @@
 # oyi
-An approachable Dependently-typed language with Linear Types and an optional Theorem-Proving subsystem
+
+An approachable Functional programming language with Refinement Types and Linear Types.
