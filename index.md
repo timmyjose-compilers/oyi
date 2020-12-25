@@ -2,6 +2,8 @@
 
 This is the project page for the Oyi programming language. This is a work-in-progress.
 
+The language itself may referred to as "Oyi" or "Oyi lang".
+
 *Etymology*: "Oyi" means "language" in the [Lotha](https://en.wikipedia.org/wiki/Lotha_language) language.
 
 ### Support or Contact
