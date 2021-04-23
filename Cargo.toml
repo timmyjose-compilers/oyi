@@ -1,0 +1,16 @@
+[package]
+name = "oyi"
+description = "The initial implementation of the Oyi programming language"
+keywords = ["oyi", "oyi-lang", "functional", "refinement-types", "affine-types"]
+categories = ["compilers"]
+repository = "https://github.com/timmyjose/oyi"
+authors = ["Timmy Jose<zoltan.jose@gmail.com>"]
+version = "0.1.1"
+readme = "README.md"
+license-file = "LICENSE.md"
+edition = "2018"
+
+[lib]
+
+
+[dependencies]
